@@ -2,7 +2,7 @@
 
 Our research focuses on the processes affecting genetic variability in plant species, particularly plant dispersal. The repositories on this page contain our group's past and ongoing research, created by current lab members and alumni.
 
-More information about our research on our [lab website](www.arcastilla.com)
+More information about our research on our [lab website](https://www.arcastilla.com/)
 
 <!--
 
